@@ -273,3 +273,10 @@ signal-auth/
 whatsapp-auth/
 test-results/
 artifacts/
+
+# orchestrator-injected (do not commit agent config/memory files)
+CLAUDE.md
+.claude/
+GEMINI.md
+.gemini/
+.aider*
